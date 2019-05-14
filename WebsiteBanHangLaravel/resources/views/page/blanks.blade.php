@@ -1,0 +1,1 @@
+Đây là email {{$hoten}} và {{$tinnhan}}
